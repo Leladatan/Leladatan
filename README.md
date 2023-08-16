@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@samurai123_a10)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-samurai123_a10-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@samurai123_a10)
 
 ---
 
