@@ -6,10 +6,6 @@
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году по направлению веб-разработка. Получал знания с колледжа, с общения с более продвинутыми разработчиками и учился самостоятельно по различным видео материалам и документациям. 
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-samurai123_a10-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@samurai123_a10)
 
 ---
