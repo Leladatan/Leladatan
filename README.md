@@ -4,7 +4,33 @@
 
 ### :man_technologist: Обо мне:
 
-<h1>Frontend-разработчик.</h1>
+<h1>Frontend-разработчик</h1>
+
+<h2>Мой стек:</h2>
+
+<ul>
+<li>
+  React, Next.js, Typescript
+</li>
+  <li>
+  Axios, React Query, gRPC
+</li>
+  <li>
+  Webpack, yarn, npm, git, vite
+</li>
+  <li>
+  PrismaORM, Stripe
+</li>
+  <li>
+  Zustand, Mobx, Pullstate, React.Context
+</li>
+  <li>
+  Tailwindcss, sass, style-components
+</li>
+<li>
+  Shadcn-ui, MUI, Antd
+</li>
+</ul>
 
 <p>
   Трудолюбивый и усидчивый человек, готовый изучать новые технологии связанные с IT.
