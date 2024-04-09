@@ -4,31 +4,31 @@
 
 ### :man_technologist: Обо мне:
 
-<h1>Frontend-разработчик</h1>
+<h1>🌌Frontend-разработчик🌌</h1>
 
 <h2>Мой стек:</h2>
 
 <ul>
 <li>
-  React, Next.js, Typescript
+  React, Next.js, Typescript 🌠
 </li>
   <li>
-  Axios, React Query, gRPC
+  Axios, React Query, gRPC 🌠
 </li>
   <li>
-  Webpack, yarn, npm, git, vite
+  Webpack, yarn, npm, git, vite 🌠
 </li>
   <li>
-  PrismaORM, Stripe
+  PrismaORM, Stripe 🌠
 </li>
   <li>
-  Zustand, Mobx, Pullstate, React.Context
+  Zustand, Mobx, Pullstate, React.Context 🌠
 </li>
   <li>
-  Tailwindcss, sass, style-components
+  Tailwindcss, sass, style-components 🌠
 </li>
 <li>
-  Shadcn-ui, MUI, Antd
+  Shadcn-ui, MUI, Antd 🌠
 </li>
 </ul>
 
