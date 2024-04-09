@@ -38,7 +38,6 @@
   <p>Github: https://github.com/leladatan</p>
   <p>Telegram: https://t.me/unluck_z</p>
   <p>Электронная почта: leladatan@yandex.ru</p>
-  <p>Номер телефона: +7 (901) 121 93-42</p>
 </p>
 
 <img src="https://sun9-19.userapi.com/impg/qsa5ecN1BzRqWGVt8JJ6zcdoV7GSPiypbOGLsA/gXONJkykrKk.jpg?size=2370x1000&quality=95&sign=e41736062f585023f5f0753502430c0d&type=album" title="banner" alt="banner" />
