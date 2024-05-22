@@ -22,7 +22,7 @@
   PrismaORM, Stripe 🌠
 </li>
   <li>
-  Zustand, Mobx, Pullstate, React.Context 🌠
+  Zustand, Mobx, Pullstate, React.Context, RTK 🌠
 </li>
   <li>
   Tailwindcss, sass, style-components 🌠
