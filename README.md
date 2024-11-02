@@ -35,7 +35,6 @@
 <p>
   Трудолюбивый и усидчивый человек, готовый изучать новые технологии связанные с IT.
 
-  <p>Github: https://github.com/leladatan</p>
   <p>Telegram: https://t.me/unluck_z</p>
   <p>Электронная почта: leladatan@yandex.ru</p>
 </p>
