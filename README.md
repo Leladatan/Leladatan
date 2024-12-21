@@ -34,9 +34,6 @@
 
 <p>
   Трудолюбивый и усидчивый человек, готовый изучать новые технологии связанные с IT.
-
-  <p>Telegram: https://t.me/unluck_z</p>
-  <p>Электронная почта: leladatan@yandex.ru</p>
 </p>
 
 <img src="https://sun9-19.userapi.com/impg/qsa5ecN1BzRqWGVt8JJ6zcdoV7GSPiypbOGLsA/gXONJkykrKk.jpg?size=2370x1000&quality=95&sign=e41736062f585023f5f0753502430c0d&type=album" title="banner" alt="banner" />
