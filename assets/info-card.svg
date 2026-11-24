@@ -43,7 +43,7 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/>
       <text x="28" y="184"><tspan fill="#A78BFA">$</tspan> focus</text>
-      <text x="28" y="208" fill="#A1A1AA">APIs · bots · DevOps basics · useful tools</text>
+      <text x="28" y="208" fill="#A1A1AA">APIs · bots · React Native · useful tools</text>
     </g>
   </g>
 

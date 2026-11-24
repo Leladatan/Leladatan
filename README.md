@@ -22,6 +22,7 @@
 
 - Сейчас в фокусе: backend на Node/Next, чистые API, auth, данные
 - Умею совмещать: fullstack на Next.js или отдельно backend + frontend
+- Дальше: мобильная разработка на **React Native** (iOS / Android)
 - Базовый DevOps: Docker, деплой, CI на уровне «поднять и отдать»
 - Портфолио: [leladatan.dev](https://leladatan-dev.vercel.app)
 
@@ -47,6 +48,7 @@
         <li>Деплой: Vercel и простые VPS-сценарии</li>
         <li>Git / GitHub Actions на базовом уровне</li>
         <li>Frontend по необходимости: React, Tailwind</li>
+        <li>Mobile: React Native (в фокусе изучения)</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -75,7 +77,7 @@
   <strong>Backend</strong><br />
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,prisma,postgres,supabase&theme=dark" alt="Backend stack" />
   <br /><br />
-  <strong>Frontend</strong><br />
+  <strong>Frontend</strong> <sub>+ React Native</sub><br />
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,vite&theme=dark" alt="Frontend stack" />
   <br /><br />
   <strong>DevOps &amp; tools</strong><br />
@@ -114,7 +116,7 @@ Zustand · Redux / RTK · MobX · React Query · Clerk · NextAuth · Stripe · 
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leladatan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0A1A&title_color=A78BFA&icon_color=A78BFA&text_color=EDE9FE" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leladatan&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0F0A1A&title_color=A78BFA&icon_color=A78BFA&text_color=EDE9FE" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leladatan&layout=compact&theme=radical&hide_border=true&bg_color=0F0A1A&title_color=A78BFA&text_color=EDE9FE" alt="Top languages" />
 </div>
 
