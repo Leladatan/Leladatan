@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Leladatan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=46&lines=Middle+Backend+%C2%B7+Node.js+%26+Next.js;APIs+%C2%B7+bots+%C2%B7+Docker;leladatan+%C2%B7+building+useful+tools" alt="Typing SVG" />
-  </a>
+  <img src="./assets/tagline.svg" alt="tagline" width="620" />
 </div>
 
 <br />
@@ -13,7 +11,7 @@
 ## Обо мне
 
 <div align="center">
-  <img src="./assets/info-card.svg" alt="leladatan terminal info card" width="680" />
+  <img src="./assets/info-card.svg" alt="leladatan terminal info card" width="720" />
 </div>
 
 <br />
@@ -63,6 +61,12 @@
   </tr>
 </table>
 
+<br />
+
+<div align="center">
+  <img src="./assets/request-flow.svg" alt="client server request lifecycle" width="920" />
+</div>
+
 ---
 
 ## Стек
@@ -101,21 +105,23 @@ Zustand · Redux / RTK · MobX · React Query · Clerk · NextAuth · Stripe · 
 
 ### Куда двигаюсь дальше
 
-Серверы и API · Telegram / Discord боты · игровые боты · небольшие игры · нейросети и helper-утилиты · всё, что экономит людям время
+<div align="center">
+  <img src="./assets/building-next.svg" alt="building next roadmap" width="720" />
+</div>
 
 ---
 
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leladatan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leladatan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leladatan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0A1A&title_color=A78BFA&icon_color=A78BFA&text_color=EDE9FE" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leladatan&layout=compact&theme=radical&hide_border=true&bg_color=0F0A1A&title_color=A78BFA&text_color=EDE9FE" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leladatan&bg_color=0B1220&color=22D3EE&line=67E8F9&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leladatan&bg_color=0F0A1A&color=A78BFA&line=C4B5FD&point=F5F3FF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
 <br />
@@ -133,8 +139,8 @@ Zustand · Redux / RTK · MobX · React Query · Clerk · NextAuth · Stripe · 
 ## Контакты
 
 <p align="center">
-  <a href="https://github.com/Leladatan"><img src="https://img.shields.io/badge/GitHub-Leladatan-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://leladatan-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-leladatan.dev-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://github.com/Leladatan"><img src="https://img.shields.io/badge/GitHub-Leladatan-0F0A1A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
+  <a href="https://leladatan-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-leladatan.dev-0F0A1A?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
 </p>
 
 <div align="center">

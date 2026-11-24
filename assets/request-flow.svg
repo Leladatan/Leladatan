@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="168" viewBox="0 0 920 168" role="img" aria-labelledby="title desc">
+  <title id="title">Request flow</title>
+  <desc id="desc">UI to Browser to HTTP to API to DB and back</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F0A1A"/>
+      <stop offset="100%" stop-color="#1E1033"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1028"/>
+      <stop offset="100%" stop-color="#2E1065"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="920" height="168" rx="16" fill="url(#panel)" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <text x="460" y="28" text-anchor="middle" fill="#C4B5FD" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="600">
+    client ↔ server · request lifecycle
+  </text>
+
+  <!-- chips: UI Browser HTTP API DB -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">
+    <g>
+      <rect x="28" y="52" width="120" height="44" rx="10" fill="url(#chip)" stroke="#A78BFA" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35;0.35;0.35;0.35" keyTimes="0;0.1;0.2;0.4;0.7;1" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="88" y="72" fill="#F5F3FF">UI</text>
+      <text x="88" y="88" fill="#A78BFA" font-size="11">React</text>
+    </g>
+
+    <g>
+      <rect x="188" y="52" width="120" height="44" rx="10" fill="url(#chip)" stroke="#A78BFA" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.35;0.35;1;0.35;0.35;0.35" keyTimes="0;0.15;0.25;0.35;0.7;1" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="248" y="72" fill="#F5F3FF">Browser</text>
+      <text x="248" y="88" fill="#A78BFA" font-size="11">client</text>
+    </g>
+
+    <g>
+      <rect x="348" y="52" width="120" height="44" rx="10" fill="url(#chip)" stroke="#A78BFA" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.35;0.35;0.35;1;0.35;0.35" keyTimes="0;0.3;0.35;0.45;0.55;1" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="408" y="72" fill="#F5F3FF">HTTP</text>
+      <text x="408" y="88" fill="#A78BFA" font-size="11">TCP/IP</text>
+    </g>
+
+    <g>
+      <rect x="508" y="52" width="140" height="44" rx="10" fill="url(#chip)" stroke="#A78BFA" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.35;0.35;0.35;0.35;1;0.35" keyTimes="0;0.45;0.5;0.55;0.65;1" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="578" y="72" fill="#F5F3FF">API</text>
+      <text x="578" y="88" fill="#A78BFA" font-size="11">Node / Next</text>
+    </g>
+
+    <g>
+      <rect x="688" y="52" width="200" height="44" rx="10" fill="url(#chip)" stroke="#A78BFA" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.35;0.35;0.35;0.35;0.35;1;0.35" keyTimes="0;0.6;0.65;0.7;0.75;0.85;1" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="788" y="72" fill="#F5F3FF">DB</text>
+      <text x="788" y="88" fill="#A78BFA" font-size="11">Prisma · Postgres</text>
+    </g>
+  </g>
+
+  <!-- forward arrows -->
+  <g stroke="#A78BFA" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M152 74 H180"/>
+    <path d="M172 68 L180 74 L172 80" fill="#A78BFA" stroke="none"/>
+    <path d="M312 74 H340"/>
+    <path d="M332 68 L340 74 L332 80" fill="#A78BFA" stroke="none"/>
+    <path d="M472 74 H500"/>
+    <path d="M492 68 L500 74 L492 80" fill="#A78BFA" stroke="none"/>
+    <path d="M652 74 H680"/>
+    <path d="M672 68 L680 74 L672 80" fill="#A78BFA" stroke="none"/>
+  </g>
+
+  <!-- return path -->
+  <path d="M788 108 C 700 132, 300 132, 88 108" fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-dasharray="5 4" opacity="0.85"/>
+  <text x="460" y="148" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+    ← response · JSON / HTML
+  </text>
+
+  <!-- traveling pulse -->
+  <circle r="5" fill="#DDD6FE">
+    <animateMotion dur="4.8s" repeatCount="indefinite" path="M88 74 H248 H408 H578 H788"/>
+    <animate attributeName="opacity" values="0;1;1;1;1;0.4" keyTimes="0;0.05;0.4;0.7;0.9;1" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#A78BFA">
+    <animateMotion dur="4.8s" repeatCount="indefinite" begin="2.4s" path="M788 108 C 700 132, 300 132, 88 108"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="4.8s" begin="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
