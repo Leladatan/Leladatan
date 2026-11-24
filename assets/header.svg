@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">leladatan</title>
+  <desc id="desc">Middle Backend · Node.js &amp; Next.js</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="50%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect width="1200" height="200" fill="url(#shine)"/>
+
+  <path fill="#0B1220" fill-opacity="0.35" d="M0 148 C 150 128, 250 168, 400 148 C 550 128, 650 168, 800 148 C 950 128, 1050 168, 1200 148 L 1200 200 L 0 200 Z"/>
+  <path fill="#0B1220" fill-opacity="0.55" d="M0 168 C 180 148, 280 188, 420 168 C 560 148, 680 188, 840 168 C 980 148, 1100 188, 1200 168 L 1200 200 L 0 200 Z"/>
+
+  <text x="600" y="88" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="56" font-weight="700" opacity="0">
+    leladatan
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.7s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="128" text-anchor="middle" fill="#A5F3FC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="500" opacity="0">
+    Middle Backend · Node.js &amp; Next.js
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.7s" fill="freeze"/>
+  </text>
+</svg>

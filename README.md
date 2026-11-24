@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0E7490,100:22D3EE&height=180&section=header&text=Vladimir&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20Next.js%20%26%20TypeScript&descSize=16&descAlignY=58&descColor=A5F3FC" alt="header" width="100%" />
+  <img src="./assets/header.svg" alt="leladatan" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Leladatan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&height=46&lines=Middle+Frontend+%C2%B7+Junior+Backend;Next.js+%C2%B7+React+%C2%B7+TypeScript;UI%2C+FSD+%26+product+features" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=46&lines=Middle+Backend+%C2%B7+Node.js+%26+Next.js;APIs+%C2%B7+bots+%C2%B7+Docker;leladatan+%C2%B7+building+useful+tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,32 +13,75 @@
 ## Обо мне
 
 <div align="center">
-  <img src="./assets/info-card.svg" alt="Leladatan terminal info card" width="680" />
+  <img src="./assets/info-card.svg" alt="leladatan terminal info card" width="680" />
 </div>
 
 <br />
 
-Привет — я **Владимир** (`Leladatan`). Frontend-разработчик из Москвы: собираю продуктовые интерфейсы на **React / Next.js / TypeScript**, иногда дотягиваю бэкенд на **Node.js**.
+Привет — я **leladatan**. Middle Backend из Москвы: проектирую API и серверную логику на **Node.js / Next.js / TypeScript**, при необходимости закрываю и клиентскую часть.
 
-- Сейчас в фокусе: современный UI, FSD, анимации и чистая архитектура фронта
-- Основной стек: Next.js, TypeScript, Tailwind, Prisma, Zustand
-- Бэкенд-слой: Node.js, API, auth (Clerk / NextAuth / Supabase)
+Пишу не только сайты. Интересны серверы, боты (Telegram / Discord), игровые боты, небольшие игры, утилиты и эксперименты с нейросетями — всё, что реально помогает людям в повседневных задачах. Стек добираю по мере проектов: фундамент уже есть, дальше — глубина и продакшен-практика.
+
+- Сейчас в фокусе: backend на Node/Next, чистые API, auth, данные
+- Умею совмещать: fullstack на Next.js или отдельно backend + frontend
+- Базовый DevOps: Docker, деплой, CI на уровне «поднять и отдать»
 - Портфолио: [leladatan.dev](https://leladatan-dev.vercel.app)
+
+---
+
+## Что умею
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Backend &amp; data</h3>
+      <ul>
+        <li>Node.js, Next.js (API routes / server)</li>
+        <li>TypeScript, REST, Prisma, PostgreSQL</li>
+        <li>Auth: Clerk, NextAuth, Supabase</li>
+        <li>Интеграции: Stripe, gRPC, Discord.js</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Платформа</h3>
+      <ul>
+        <li>Docker: образы, compose, локальный стенд</li>
+        <li>Деплой: Vercel и простые VPS-сценарии</li>
+        <li>Git / GitHub Actions на базовом уровне</li>
+        <li>Frontend по необходимости: React, Tailwind</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Сети &amp; основы</h3>
+      <ul>
+        <li>Как браузер ходит за данными</li>
+        <li>HTTP / HTTPS, запросы и ответы</li>
+        <li>TCP/IP и компьютерные сети — фундамент</li>
+        <li>Понимаю путь: client → server → DB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,sass&theme=dark" alt="Frontend stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,redux,vite,git,figma,vercel&theme=dark" alt="Backend and tools" />
+  <strong>Backend</strong><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,prisma,postgres,supabase&theme=dark" alt="Backend stack" />
+  <br /><br />
+  <strong>Frontend</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,vite&theme=dark" alt="Frontend stack" />
+  <br /><br />
+  <strong>DevOps &amp; tools</strong><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,vscode,linux&theme=dark" alt="DevOps and tools" />
 </p>
 
 <details>
 <summary>Чем ещё пользовался</summary>
 
-React Query · gRPC · Stripe · Clerk · NextAuth · shadcn/ui · MUI · Ant Design · MobX · RTK · styled-components · Webpack · yarn/npm · Discord.js
+Zustand · Redux / RTK · MobX · React Query · Clerk · NextAuth · Stripe · gRPC · shadcn/ui · MUI · Ant Design · Discord.js · Webpack · yarn / npm · Figma
 
 </details>
 
@@ -46,13 +89,19 @@ React Query · gRPC · Stripe · Clerk · NextAuth · shadcn/ui · MUI · Ant De
 
 ## Избранные проекты
 
+> Остальные pet-проекты планирую полностью переписать — demo оставляю только у актуальных.
+
 | Проект | Что это | Стек | Demo |
 | --- | --- | --- | --- |
 | [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Anime-платформа с акцентом на UI/motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
-| [spotify](https://github.com/Leladatan/spotify) | Fullstack-клон Spotify | Next.js · Supabase · Zustand · Tailwind | [live](https://spotify-two-murex.vercel.app) |
-| [network](https://github.com/Leladatan/network) | Соцсеть / pet social | Next 14 · Prisma · NextAuth | [live](https://network-leladatan.vercel.app) |
-| [discord](https://github.com/Leladatan/discord) | Discord-like приложение | Next.js · Clerk · Prisma · Zustand | — |
 | [leladatan.dev](https://github.com/Leladatan/leladatan.dev) | Личный сайт | React · TypeScript | [live](https://leladatan-dev.vercel.app) |
+| [spotify](https://github.com/Leladatan/spotify) | Fullstack-клон Spotify (rewrite soon) | Next.js · Supabase · Zustand | — |
+| [network](https://github.com/Leladatan/network) | Соцсеть / pet social (rewrite soon) | Next 14 · Prisma · NextAuth | — |
+| [discord](https://github.com/Leladatan/discord) | Discord-like приложение (rewrite soon) | Next.js · Clerk · Prisma | — |
+
+### Куда двигаюсь дальше
+
+Серверы и API · Telegram / Discord боты · игровые боты · небольшие игры · нейросети и helper-утилиты · всё, что экономит людям время
 
 ---
 
@@ -73,7 +122,6 @@ React Query · gRPC · Stripe · Clerk · NextAuth · shadcn/ui · MUI · Ant De
 
 ### Contribution snake
 
-<!-- После первого запуска Actions → Generate Snake появится SVG на ветке output -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leladatan/Leladatan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leladatan/Leladatan/output/github-contribution-grid-snake.svg" />
@@ -90,5 +138,5 @@ React Query · gRPC · Stripe · Clerk · NextAuth · shadcn/ui · MUI · Ant De
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0E7490,100:22D3EE&height=100&section=footer" alt="footer" width="100%" />
+  <img src="./assets/footer.svg" alt="footer" width="100%" />
 </div>

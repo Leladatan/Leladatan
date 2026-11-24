@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="220" viewBox="0 0 680 220" role="img" aria-labelledby="title desc">
-  <title id="title">Leladatan profile card</title>
+  <title id="title">leladatan profile card</title>
   <desc id="desc">Animated terminal-style card with role and stack</desc>
 
   <defs>
@@ -31,19 +31,19 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/>
       <text x="28" y="72"><tspan fill="#22D3EE">$</tspan> whoami</text>
-      <text x="28" y="96" fill="#A5F3FC">Vladimir · Middle Frontend / Junior Backend</text>
+      <text x="28" y="96" fill="#A5F3FC">leladatan · Middle Backend</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze"/>
       <text x="28" y="128"><tspan fill="#22D3EE">$</tspan> stack --core</text>
-      <text x="28" y="152" fill="#67E8F9">Next.js · React · TypeScript · Tailwind · Prisma</text>
+      <text x="28" y="152" fill="#67E8F9">Node.js · Next.js · TypeScript · Prisma · Docker</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/>
       <text x="28" y="184"><tspan fill="#22D3EE">$</tspan> focus</text>
-      <text x="28" y="208" fill="#94A3B8">UI · FSD · product features · Node.js APIs</text>
+      <text x="28" y="208" fill="#94A3B8">APIs · bots · DevOps basics · useful tools</text>
     </g>
   </g>
 
