@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="156" viewBox="0 0 1200 156" role="img" aria-labelledby="title desc">
   <title id="title">leladatan</title>
-  <desc id="desc">Middle Backend · Node.js &amp; Next.js</desc>
+  <desc id="desc">Fullstack · TypeScript · Next.js · React Native</desc>
 
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -21,13 +21,13 @@
   <path fill="#0F0A1A" fill-opacity="0.35" d="M0 112 C 150 96, 250 128, 400 112 C 550 96, 650 128, 800 112 C 950 96, 1050 128, 1200 112 L 1200 156 L 0 156 Z"/>
   <path fill="#0F0A1A" fill-opacity="0.55" d="M0 128 C 180 112, 280 144, 420 128 C 560 112, 680 144, 840 128 C 980 112, 1100 144, 1200 128 L 1200 156 L 0 156 Z"/>
 
-  <text x="600" y="68" text-anchor="middle" fill="#F5F3FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="44" font-weight="700" opacity="0">
+  <text x="600" y="68" text-anchor="middle" fill="#F5F3FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="44" font-weight="700" opacity="1">
     leladatan
-    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.7s" fill="freeze"/>
+    <animate attributeName="opacity" from="0.3" to="1" begin="0.1s" dur="0.6s" fill="freeze"/>
   </text>
 
-  <text x="600" y="100" text-anchor="middle" fill="#C4B5FD" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500" opacity="0">
-    Middle Backend · Node.js &amp; Next.js
-    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.7s" fill="freeze"/>
+  <text x="600" y="100" text-anchor="middle" fill="#C4B5FD" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500" opacity="1">
+    Fullstack · TypeScript · Next.js · React Native
+    <animate attributeName="opacity" from="0.3" to="1" begin="0.35s" dur="0.6s" fill="freeze"/>
   </text>
 </svg>

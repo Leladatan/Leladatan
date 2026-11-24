@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/tagline.svg" alt="tagline" width="620" />
+  <img src="./assets/tagline.svg" alt="tagline" width="640" />
 </div>
 
 <br />
@@ -16,48 +16,50 @@
 
 <br />
 
-Привет — я **leladatan**. Middle Backend из Москвы: проектирую API и серверную логику на **Node.js / Next.js / TypeScript**, при необходимости закрываю и клиентскую часть.
+Привет — я **leladatan**, fullstack-разработчик из Москвы.
 
-Пишу не только сайты. Интересны серверы, боты (Telegram / Discord), игровые боты, небольшие игры, утилиты и эксперименты с нейросетями — всё, что реально помогает людям в повседневных задачах. Стек добираю по мере проектов: фундамент уже есть, дальше — глубина и продакшен-практика.
+Собираю продукты end-to-end: интерфейс, API, данные, деплой и мобильный клиент. Frontend, backend, React Native и базовый DevOps для меня — связанные части одного процесса, а не разные «вакансии». Понимаю путь запроса от браузера до базы: HTTP, TCP/IP, сети, `client → server → DB`.
 
-- Сейчас в фокусе: backend на Node/Next, чистые API, auth, данные
-- Умею совмещать: fullstack на Next.js или отдельно backend + frontend
-- Дальше: мобильная разработка на **React Native** (iOS / Android)
-- Базовый DevOps: Docker, деплой, CI на уровне «поднять и отдать»
-- Портфолио: [leladatan.dev](https://leladatan-dev.vercel.app)
+Основной стек — **TypeScript** вокруг **React / Next.js** и **Node.js**: App Router, Route Handlers, Prisma + PostgreSQL, Tailwind, auth (Auth.js / Clerk / Supabase). На клиенте — современный UI и стейт (Zustand, TanStack Query). Инфраструктуру поднимаю через **Docker**, GitHub Actions и деплой (Vercel / VPS). Параллельно углубляюсь в **React Native** (iOS / Android).
+
+Кроме веб-продуктов пишу серверы, ботов (Telegram / Discord), утилиты, иногда игры и вспомогательные штуки с ML — всё, что реально экономит людям время. Уровень — middle, с сильной стороной в backend; фронт, мобилка и DevOps развиваю в той же связке.
+
+Портфолио: [leladatan.dev](https://leladatan-dev.vercel.app)
 
 ---
 
-## Что умею
+## Стек и зона ответственности
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Backend &amp; data</h3>
+      <h3>Backend</h3>
       <ul>
-        <li>Node.js, Next.js (API routes / server)</li>
-        <li>TypeScript, REST, Prisma, PostgreSQL</li>
-        <li>Auth: Clerk, NextAuth, Supabase</li>
-        <li>Интеграции: Stripe, gRPC, Discord.js</li>
+        <li>Node.js · TypeScript</li>
+        <li>Next.js App Router / Route Handlers</li>
+        <li>Prisma · PostgreSQL · REST</li>
+        <li>Auth.js · Clerk · Supabase Auth</li>
+        <li>Интеграции: Stripe · gRPC · discord.js</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Платформа</h3>
+      <h3>Frontend &amp; Mobile</h3>
       <ul>
-        <li>Docker: образы, compose, локальный стенд</li>
-        <li>Деплой: Vercel и простые VPS-сценарии</li>
-        <li>Git / GitHub Actions на базовом уровне</li>
-        <li>Frontend по необходимости: React, Tailwind</li>
-        <li>Mobile: React Native (в фокусе изучения)</li>
+        <li>React · Next.js · TypeScript</li>
+        <li>Tailwind CSS · shadcn/ui</li>
+        <li>Zustand · TanStack Query</li>
+        <li>React Native (iOS / Android)</li>
+        <li>Vite · FSD при необходимости</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Сети &amp; основы</h3>
+      <h3>DevOps &amp; основы</h3>
       <ul>
-        <li>Как браузер ходит за данными</li>
-        <li>HTTP / HTTPS, запросы и ответы</li>
-        <li>TCP/IP и компьютерные сети — фундамент</li>
-        <li>Понимаю путь: client → server → DB</li>
+        <li>Docker · Compose</li>
+        <li>GitHub Actions · CI/CD</li>
+        <li>Vercel · VPS-деплой</li>
+        <li>Git · Linux · VS Code</li>
+        <li>HTTP · TCP/IP · сети</li>
       </ul>
     </td>
   </tr>
@@ -66,46 +68,49 @@
 <br />
 
 <div align="center">
-  <img src="./assets/request-flow.svg" alt="client server request lifecycle" width="920" />
+  <img src="./assets/request-flow.svg" alt="fullstack request lifecycle client to server" width="920" />
 </div>
 
 ---
 
-## Стек
+## Технологии
 
 <p align="center">
   <strong>Backend</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,prisma,postgres,supabase&theme=dark" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nextjs,prisma,postgres,supabase&theme=dark" alt="Backend stack" />
   <br /><br />
-  <strong>Frontend</strong> <sub>+ React Native</sub><br />
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,vite&theme=dark" alt="Frontend stack" />
+  <strong>Frontend &amp; Mobile</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,redux&theme=dark" alt="Frontend and mobile stack" />
+  <br />
+  <sub>React Native · Tailwind · Zustand / TanStack Query · shadcn/ui</sub>
   <br /><br />
   <strong>DevOps &amp; tools</strong><br />
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,vscode,linux&theme=dark" alt="DevOps and tools" />
 </p>
 
 <details>
-<summary>Чем ещё пользовался</summary>
+<summary>Также в опыте</summary>
 
-Zustand · Redux / RTK · MobX · React Query · Clerk · NextAuth · Stripe · gRPC · shadcn/ui · MUI · Ant Design · Discord.js · Webpack · yarn / npm · Figma
+Sass · styled-components · MUI · Ant Design · MobX · RTK · Webpack · yarn / npm · pnpm · Clerk · Auth.js · Stripe · gRPC · discord.js · Figma · GSAP · FSD
 
 </details>
 
 ---
 
-## Избранные проекты
+## Проекты
 
-> Остальные pet-проекты планирую полностью переписать — demo оставляю только у актуальных.
+Часть pet-проектов переписываю с нуля. Live — только у актуальных.
 
-| Проект | Что это | Стек | Demo |
+| Проект | Описание | Стек | Demo |
 | --- | --- | --- | --- |
-| [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Anime-платформа с акцентом на UI/motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
+| [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Anime-платформа с акцентом на UI и motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
 | [leladatan.dev](https://github.com/Leladatan/leladatan.dev) | Личный сайт | React · TypeScript | [live](https://leladatan-dev.vercel.app) |
-| [spotify](https://github.com/Leladatan/spotify) | Fullstack-клон Spotify (rewrite soon) | Next.js · Supabase · Zustand | — |
-| [network](https://github.com/Leladatan/network) | Соцсеть / pet social (rewrite soon) | Next 14 · Prisma · NextAuth | — |
-| [discord](https://github.com/Leladatan/discord) | Discord-like приложение (rewrite soon) | Next.js · Clerk · Prisma | — |
+| [spotify](https://github.com/Leladatan/spotify) | Fullstack-клон Spotify (rewrite) | Next.js · Supabase · Zustand | — |
+| [network](https://github.com/Leladatan/network) | Соцсеть (rewrite) | Next.js · Prisma · Auth.js | — |
+| [discord](https://github.com/Leladatan/discord) | Discord-like приложение (rewrite) | Next.js · Clerk · Prisma | — |
+| [discord-close-bot](https://github.com/Leladatan/discord-close-bot) | Discord-бот | Node.js · discord.js | — |
 
-### Куда двигаюсь дальше
+### Дальше
 
 <div align="center">
   <img src="./assets/building-next.svg" alt="building next roadmap" width="720" />
