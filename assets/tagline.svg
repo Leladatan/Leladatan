@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="48" viewBox="0 0 640 48" role="img" aria-label="rotating taglines">
   <rect width="640" height="48" rx="8" fill="#0F0A1A" fill-opacity="0.4"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="500" text-anchor="middle" fill="#A78BFA">
-    <text x="320" y="30" opacity="1">
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="500" text-anchor="middle" fill="#C4B5FD">
+    <text x="320" y="30" opacity="0">
       Fullstack · TypeScript · Next.js · Node.js
       <animate attributeName="opacity"
-        values="0.2;1;1;0.2;0.2;0.2"
+        values="0;1;1;0;0;0"
         keyTimes="0;0.05;0.28;0.33;0.34;1"
         dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="320" y="30" opacity="0.2">
+    <text x="320" y="30" opacity="0">
       React · React Native · Prisma · Docker
       <animate attributeName="opacity"
-        values="0.2;0.2;1;1;0.2;0.2"
+        values="0;0;1;1;0;0"
         keyTimes="0;0.33;0.38;0.61;0.66;1"
         dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="320" y="30" opacity="0.2">
+    <text x="320" y="30" opacity="0">
       Web, mobile, APIs and deploy — one stack
       <animate attributeName="opacity"
-        values="0.2;0.2;1;1;0.2"
+        values="0;0;1;1;0"
         keyTimes="0;0.66;0.71;0.95;1"
         dur="9s" repeatCount="indefinite"/>
     </text>

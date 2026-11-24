@@ -22,7 +22,7 @@
 
 Основной стек — **TypeScript** вокруг **React / Next.js** и **Node.js**: App Router, Route Handlers, Prisma + PostgreSQL, Tailwind, auth (Auth.js / Clerk / Supabase). На клиенте — современный UI и стейт (Zustand, TanStack Query). Инфраструктуру поднимаю через **Docker**, GitHub Actions и деплой (Vercel / VPS). Параллельно углубляюсь в **React Native** (iOS / Android).
 
-Кроме веб-продуктов пишу серверы, ботов (Telegram / Discord), утилиты, иногда игры и вспомогательные штуки с ML — всё, что реально экономит людям время. Уровень — middle, с сильной стороной в backend; фронт, мобилка и DevOps развиваю в той же связке.
+Кроме веб-продуктов пишу серверы, ботов (Telegram / Discord), утилиты, иногда игры и вспомогательные штуки с ML — всё, что реально экономит людям время. Уровень — middle, с сильной стороной во frontend; backend, мобилка и DevOps развиваю в той же связке.
 
 Портфолио: [leladatan.dev](https://leladatan-dev.vercel.app)
 
