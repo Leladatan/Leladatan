@@ -99,21 +99,13 @@ Sass · styled-components · MUI · Ant Design · MobX · RTK · Webpack · yarn
 
 ## Проекты
 
-Часть pet-проектов переписываю с нуля. Live — только у актуальных.
-
 | Проект | Описание | Стек | Demo |
 | --- | --- | --- | --- |
-| [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Anime-платформа с акцентом на UI и motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
-| [leladatan.dev](https://github.com/Leladatan/leladatan.dev) | Личный сайт | React · TypeScript | [live](https://leladatan-dev.vercel.app) |
-| [spotify](https://github.com/Leladatan/spotify) | Fullstack-клон Spotify (rewrite) | Next.js · Supabase · Zustand | — |
-| [network](https://github.com/Leladatan/network) | Соцсеть (rewrite) | Next.js · Prisma · Auth.js | — |
-| [discord](https://github.com/Leladatan/discord) | Discord-like приложение (rewrite) | Next.js · Clerk · Prisma | — |
-| [discord-close-bot](https://github.com/Leladatan/discord-close-bot) | Discord-бот | Node.js · discord.js | — |
-
-### Дальше
+| [leladatan.dev](https://github.com/Leladatan/leladatan.dev) | Портфолио и личный сайт | React · TypeScript | [live](https://leladatan-dev.vercel.app) |
+| [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Landing с акцентом на UI и motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
 
 <div align="center">
-  <img src="./assets/building-next.svg" alt="building next roadmap" width="720" />
+  <img src="./assets/building-next.svg" alt="building next" width="720" />
 </div>
 
 ---
