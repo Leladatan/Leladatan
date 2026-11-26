@@ -102,7 +102,6 @@ Sass · styled-components · MUI · Ant Design · MobX · RTK · Webpack · yarn
 | Проект | Описание | Стек | Demo |
 | --- | --- | --- | --- |
 | [leladatan.dev](https://github.com/Leladatan/leladatan.dev) | Портфолио и личный сайт | React · TypeScript | [live](https://leladatan-dev.vercel.app) |
-| [dream-anime-frontend](https://github.com/Leladatan/dream-anime-frontend) | Landing с акцентом на UI и motion | Next.js 15 · FSD · GSAP · Tailwind | [live](https://dream-anime-frontend.vercel.app) |
 
 <div align="center">
   <img src="./assets/building-next.svg" alt="building next" width="720" />
